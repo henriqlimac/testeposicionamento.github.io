@@ -1,2 +1,2 @@
-# https://henriqlimac.github.io/testeposicionamento.github.io/
+# https://henriqlimac.github.io/testeposicionamento/
 Esse repositório é destinado a um teste de posicionamento.
